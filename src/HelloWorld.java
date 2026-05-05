@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.print("goodBye");
 		System.out.print("Love cs"); 
 		System.out.print("colorado college");
+		System.out.print("last one");
 	}
 
 }
