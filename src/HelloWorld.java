@@ -5,7 +5,7 @@ public class HelloWorld {
 		System.out.print("Hello world"); 
 		System.out.print("goodBye");
 		System.out.print("Love cs"); 
-		System.out.print("more changes"); 
+		System.out.print("more changes");
 	}
 
 }
